@@ -1,6 +1,6 @@
 # ROB313 Machine Learning Projects
 
-### The uploaded directories contain implementations of the following models:
+### The uploaded projects contain implementations of the following models:
 
 * k-NN
 * Linear Models
