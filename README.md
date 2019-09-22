@@ -1,6 +1,6 @@
 # ROB313 Machine Learning Projects
 
-### The uploaded projects contain implementations of the following models:
+### The uploaded projects contain the listed implementations from a first principles approach:
 
 * k-NN
 * Linear Models
