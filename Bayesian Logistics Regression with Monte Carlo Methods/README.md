@@ -8,5 +8,5 @@ in the 'if __name__ == "__main__":' block, and it is clearly outlined with comme
 question, simply change the corresponding boolean to True at the top of the main block, and run. Required numeric 
 results will be printed and required images will be save to the current directory.
 
-Author: Christopher Agia (1003243509)
+Author: Christopher Agia (1003243509) \
 Program: Engineering Science - Robotics
